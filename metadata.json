@@ -1,0 +1,10 @@
+{
+  "name": "QR Share",
+  "description": "Fast, secure QR-code based file transfer between two devices without logins or cables",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
